@@ -1,0 +1,1 @@
+reflection_alpha += (reflection_alpha < 1) ? 0.1 : 0;
